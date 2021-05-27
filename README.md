@@ -25,4 +25,4 @@ I am a ignorant about too many things but I am a little less about engineering, 
 ## Do not forget this:
 We are in the most important century of all of time. \
 _Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_\
-_Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_\
+_Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_
