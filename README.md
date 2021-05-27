@@ -6,11 +6,11 @@ I am a ignorant about too many things but I am a little less about engineering, 
 🔭  I am seriously learning/working on find out The First, I think it will be short and really basic, Algorithm.\
 👯  I am looking to collaborate/work/practice on any brain/biology lab.\
 🌱  I am currently studying neuroscience/computer science.\
-💬  If you are interesting on some topic like me, contact me leaving a feedback.\
+💬  If you are interesting on some topic like me, contact me leaving a feedback.
 
 ## My main work
 
-- The First Algorithm.\
+- The First Algorithm.
 
 ## My theories:
 
