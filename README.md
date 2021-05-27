@@ -1,16 +1,16 @@
 ## About me
 
-Hi 👋, I am BasicAlgorithm.
-I am a ignorant about too many things but I am a little less about engineering, neuroscience and computer science.
-
-🔭  I am seriously learning/working on find out The First, I think it will be short and really basic, Algorithm.
-👯  I am looking to collaborate/work/practice on any brain/biology lab.
-🌱  I am currently studying neuroscience/computer science.
-💬  If you are interesting on some topic like me, contact me leaving a feedback.
+Hi 👋, I am BasicAlgorithm.\
+I am a ignorant about too many things but I am a little less about engineering, neuroscience and computer science.\
+\
+🔭  I am seriously learning/working on find out The First, I think it will be short and really basic, Algorithm.\
+👯  I am looking to collaborate/work/practice on any brain/biology lab.\
+🌱  I am currently studying neuroscience/computer science.\
+💬  If you are interesting on some topic like me, contact me leaving a feedback.\
 
 ## My main work
 
-- The First Algorithm.
+- The First Algorithm.\
 
 ## My theories:
 
@@ -23,6 +23,6 @@ I am a ignorant about too many things but I am a little less about engineering, 
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
 
 ## Do not forget this:
-We are in the most important century of all of time. 
-_Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_
-_Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_
+We are in the most important century of all of time. \
+_Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_\
+_Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_\
