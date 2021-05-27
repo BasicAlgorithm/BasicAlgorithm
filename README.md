@@ -19,7 +19,7 @@ I am a ignorant about too many things but I am a little less about engineering, 
 | End of world | When We discover how our brain work exactly, on the same time, We know the grand date. | 2021 |
 | Education | If an educational institution has not a clear definition about how the world will be on 5-10 years. It should be close.| 2020 |
 | Human | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
-| Bussiness | Most profitable are religion and educational institutions.| 2017 |
+| Bussiness | Most profitable are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
 
 ## Do not forget this:
