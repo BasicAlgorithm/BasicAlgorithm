@@ -20,11 +20,13 @@ I am a ignorant about too many things but I am a little less about engineering, 
 | Human | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
 | Bussiness | Most profitable are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
-| Any | Love is a rational manifestation of wanting to be next to someone. | 2021 |
-| Any | The main problem with education is that pseudo teachers do not accept their deep ignorance about education and more sad, think that education is about saying concepts when it is about inspiration and art. | 2021 |
+| Love | Love is a rational manifestation of wanting to be next to someone. | 2021 |
+| Education | The main problem with education is that pseudo teachers do not accept their deep ignorance about education and more sad, think that education is about saying concepts when it is about inspiration and art. | 2021 |
+| Education | The mediocre teacher, says and/or show a lot of things. The average teacher, explains fearfully and expect you think like him. The good teacher, demonstrates and bring you to your zone of proximal development. The great teacher, inspires you and you want to become like him. (William Ward improvement) | 2021 |
+| Investment | Any related with food. | 2021 |
 
 
-## Do not forget this:
+### Do not forget this:
 We are in the most important century of all of time. \
 _Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_\
 _Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_
