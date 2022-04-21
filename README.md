@@ -1,15 +1,15 @@
 ## About me
 
 Hi 👋, I am BasicAlgorithm.\
-I am a ignorant about too many things but I am a little less about engineering, cognitive science and computer science.\
+I am a ignorant about too many things but I am a little less about industrial engineering, cognitive science and computer science.\
 \
-🔭  I am seriously learning/working on find out The First, I think it will be short and really basic, Algorithm.\
+🔭  I am focus on find out The First, I think it will be short and really basic, Algorithm.\
 👯  I am looking to collaborate/work/practice on any brain/biology lab.\
 🌱  I am currently studying CS^2. cognitive science/computer science.
 
 ## My main work
 
-- The First -the life- Algorithm. TFA
+- The First Algorithm. TFA
 
 ## My Hypothesis:
 
@@ -20,13 +20,12 @@ I am a ignorant about too many things but I am a little less about engineering, 
 | Human | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
 | Bussiness | Most profitable are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
-| Love | Love is a rational manifestation of wanting to be next to someone. | 2021 |
+| Love | Love is an emotional expression that depend of emotional experience of like (not want) to be next to someone. | 2021 |
 | Education | The main problem with education is that pseudo teachers do not accept their deep ignorance about education and more sad, think that education is about saying concepts when it is about inspiration and art. | 2021 |
 | Education | The mediocre teacher, says and/or show a lot of things. The average teacher, explains fearfully and expect you think like him. The good teacher, demonstrates and bring you to your zone of proximal development. The great teacher, inspires you and you want to become like him. (William Ward improvement) | 2021 |
-| Investment | Any related with food. | 2021 |
+| Investment | Since the pandemic, any investment in food. | 2021 |
+| General | Whoever discovers how the brain works exactly, had discovered the second atomic bomb. | 2020 |
 
 
-### Do not forget this:
 We are in the most important century of all of time. \
-_Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_\
-_Whoever discovers how the brain works exactly, had discovered the second atomic bomb. "BasicAlgorithm"_
+_Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_
