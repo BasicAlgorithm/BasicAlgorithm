@@ -15,6 +15,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 
 | Area | Hypothesis | Year |
 | ------ | ------ | ------ |
+| Human | Levels of oxytocin indicate your level of happiness if you decided for professional success and not family. | 2022 |
 | End of world | When We discover how our brain work exactly, on the same time, We know the grand date. | 2021 |
 | Education | If an educational institution has not a clear definition about how the world will be on 5-10 years. It should be close.| 2020 |
 | Human | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
