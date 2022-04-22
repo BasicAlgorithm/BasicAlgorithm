@@ -17,15 +17,15 @@ I am a ignorant about too many things but I am a little less about industrial en
 | ------ | ------ | ------ |
 | Human | Levels of oxytocin indicate your level of happiness if you decided for professional success and not family. | 2022 |
 | End of world | When We discover how our brain work exactly, on the same time, We know the grand date. | 2021 |
+| Education | The mediocre teacher, says and/or show a lot of things. The average teacher, explains fearfully and expect you think like him. The good teacher, demonstrates and bring you to your zone of proximal development. The great teacher, inspires you and you want to become like him. (William Ward improvement) | 2021 |
+| Investment | Since the pandemic, any investment in food. | 2021 |
+| Love | Love is an emotional expression that depend of emotional experience of like (not want) to be next to someone. | 2021 |
+| Education | The main problem with education is that pseudo teachers do not accept their deep ignorance about education and more sad, think that education is about saying concepts when it is about inspiration and art. | 2021 |
 | Education | If an educational institution has not a clear definition about how the world will be on 5-10 years. It should be close.| 2020 |
+| General | Whoever discovers how the brain works exactly, had discovered the second atomic bomb. | 2020 |
 | Human | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
 | Bussiness | Most profitable are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
-| Love | Love is an emotional expression that depend of emotional experience of like (not want) to be next to someone. | 2021 |
-| Education | The main problem with education is that pseudo teachers do not accept their deep ignorance about education and more sad, think that education is about saying concepts when it is about inspiration and art. | 2021 |
-| Education | The mediocre teacher, says and/or show a lot of things. The average teacher, explains fearfully and expect you think like him. The good teacher, demonstrates and bring you to your zone of proximal development. The great teacher, inspires you and you want to become like him. (William Ward improvement) | 2021 |
-| Investment | Since the pandemic, any investment in food. | 2021 |
-| General | Whoever discovers how the brain works exactly, had discovered the second atomic bomb. | 2020 |
 
 
 We are in the most important century of all of time. \
