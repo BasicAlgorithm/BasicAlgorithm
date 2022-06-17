@@ -16,6 +16,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 | Area | Hypothesis | Year |
 | ------ | ------ | ------ |
 | Cognitive + Process Mining | With action potential logs, as information systems logs, we would have new insights about mental processes and maybe mental contents. | 2022 |
+| Survival Analysis + Education | Resilience is all you need. | 2022 |
 | Happiness | Levels of oxytocin indicate your level of happiness if you decided for professional success and not family. | 2022 |
 | End of world | When We discover how our brain work exactly, on the same time, We know the grand date. | 2021 |
 | Education | The mediocre teacher, says and/or show a lot of things. The average teacher, explains fearfully and expect you think like him. The good teacher, demonstrates and bring you to your zone of proximal development. The great teacher, inspires you and you want to become like him. (William Ward improvement) | 2021 |
