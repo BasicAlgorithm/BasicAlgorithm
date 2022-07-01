@@ -15,6 +15,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 
 | Area | Hypothesis | Year |
 | ------ | ------ | ------ |
+| AI | Natural Language is all you need: This approach is all about transforming your entire numeric dataset into natural language to take advantage of pre-trained transformers natural language models. | 2022 |
 | Cognitive + Process Mining | With action potential logs, as information systems logs, we would have new insights about mental processes and maybe mental contents. | 2022 |
 | Survival Analysis + Education | Resilience is all you need. | 2022 |
 | AGI | Artificial General Intelligence (AGI) will be brought by Cognitive Science with a bit of Computer Science.  | 2022 |
