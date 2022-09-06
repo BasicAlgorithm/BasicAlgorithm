@@ -15,6 +15,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 
 | Area | Hypothesis | Year |
 | ------ | ------ | ------ |
+|  | Two things bring magic to reality, one is computer softwares and the other is teaching. | 2022 |
 | AI | Natural Language is all you need: This approach is all about transforming your entire numeric dataset into natural language to take advantage of pre-trained transformers natural language models. | 2022 |
 | Cognitive + Process Mining | With action potential logs, as information systems logs, we would have new insights about mental processes and maybe mental contents. | 2022 |
 | Survival Analysis + Education | Resilience is all you need. | 2022 |
