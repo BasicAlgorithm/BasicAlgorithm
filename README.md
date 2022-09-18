@@ -15,6 +15,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 
 | Area | Hypothesis | Year |
 | ------ | ------ | ------ |
+| Parents | We can define the future of a person until before the critical period ends (i.e. more or less over early childhood). We can achieve this by incentivizing the practice of the sensorial/motor skill that we want. But not like Watson thought, if not, with an enriched environment. This applies to professions that depend mostly on sensory/motor-skill abilities. | 2022 |
 | Religion | Religions are good for business not to stop. When someone that you love dies, Most often, you fall in a deep sadness. This sadness is not another thing that is our own manifestation that you can not see that person again plus you don't know exactly where she/he is now (This is genuine in the being human). But, if you know that that person is in a better place than here, happier, and you will see her/him again one day (what religions tell you and you believe with faith). You probably will get over that sadness sooner and most importantly, you will go to work sonner, right?. Then, are religions good for your soul or for business not to stop? | 2022 |
 | General | Two things bring magic to reality, one is computer softwares and the other is educate. | 2022 |
 | AI | Natural Language is all you need: This approach is all about transforming your entire numeric dataset into natural language to take advantage of pre-trained transformers natural language models. | 2022 |
