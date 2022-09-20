@@ -5,7 +5,7 @@ I am a ignorant about too many things but I am a little less about industrial en
 \
 🔭  I am focus on find out The First, I think it will be short and really basic, Algorithm.\
 👯  I am looking to collaborate/work/practice on any brain/biology lab.\
-🌱  I am currently studying CS^2. cognitive science/computer science.
+🌱  I am currently studying CS and cog sci.
 
 ## My main work
 
