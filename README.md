@@ -38,5 +38,29 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 | Business | Most profitable business are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
 
-We are in the most important century of all of time. \
-_Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_
+## Breakout concepts:
+
+> You may skip this part. It is here because I don't have another place to put it that allows me to review quickly.
+
+* **Intelligence** is **GI** + **EI**: ```addapted by me```
+  * General Intelligence (**GI**) [1,2]: Its function is to govern the virtues of actions. In this way **GI** faces wishes, sentiment, beliefs, etc. Also, genetic, social, cultural, and economic aspects of a person. **GI** has two parts:
+    * Unconscious Intelligence (**GUI**) [3]: Where sentiment, ideas, wishes, motivation, and the like, born.
+    * Conscious Intelligence (**GCI**) [4]: Where resilience, focus on goals, effort, tenacity, emotions management, and the like, born.
+  * Specific Intelligence (**EI**) [5]: Linguistic Intelligence, Logical-Mathematical Intelligence, Spatial Intelligence, Bodily-Kinesthetic Intelligence, Musical Intelligence, Interpersonal Intelligence, and Intrapersonal Intelligence. [6]
+* **Talent** is a good CEO (**GI**) able to manage effectively its departments (EI) on: (i) the choosing and pursuit of goals, (ii) have the necessary information to those goals, (iii) manage emotions correctly, (iv) keep the part 2 updated, and (v) have virtues of action. [7]
+  
+
+> 1. Or Practice Intelligence. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) 
+> 2. Or Successful Intelligence. [*according to R.J. Sternberg in book: Successful Intelligence: How Practical and Creative Intelligence Determine Success in Life*](https://www.amazon.com/Successful-Intelligence-Practical-Creative-Determine/dp/0452279062#:~:text=Successful%20Intelligence%20consists%20primarily%20of,and%20applying%20strategies%2C%20ideas%2C%20and)
+> 3. Or Generating intelligenc. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport) 
+> 4. Or Executive intelligence. [*The role of prefrontal cortex in cognitive control and executive function*](https://www.nature.com/articles/s41386-021-01132-0)
+> 5. Or Theoretical Intelligence. [*according to J.A. Marina in book: La inteligencia ejecutiva: Lo que los padres y docentes deben saber*](https://www.amazon.com/-/es/Jos%C3%A9-Antonio-Marina/dp/8434400677) 
+> 6. [*Book: Frames of Mind: The Theory of Multiple Intelligences. Howard Gardner.*](https://www.amazon.com/Frames-Mind-Theory-Multiple-Intelligences/dp/0465024335)
+> 7. [*Book: La inteligencia ejecutiva: Lo que los padres y docentes deben saber. J.A. Marina*](https://www.amazon.com/-/es/Jos%C3%A9-Antonio-Marina/dp/8434400677) 
+
+<hr>
+
+<h6 align="center"> 
+We are in the most important century of all of time. <br>
+<div style="font-style: italic;">Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yuste" </div>
+</h6>
