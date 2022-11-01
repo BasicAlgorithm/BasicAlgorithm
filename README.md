@@ -1,11 +1,12 @@
 ## About me
 
-Hi 👋, I am BasicAlgorithm.\
-I am a ignorant about too many things but I am a little less about industrial engineering, cognitive science and computer science.\
-\
+Hi 👋, I am BasicAlgorithm.
+
+An 1 year old unstoppable baby babbling how the algorithm of Artificial General Intelligence is.
+
 🔭  I am focus on find out The First, I think it will be short and really basic, Algorithm.\
-👯  I am looking to collaborate/work/practice on any brain/biology lab.\
-🌱  I am currently studying CS and cog sci.
+👯  I am looking for postgraduate studies. (I already don't use diapers and my parents gave me permission)\
+🌱  I am always learning multidisciplinary and interdisciplinary things looking for transdisciplinary things.
 
 ## My main work
 
@@ -36,7 +37,6 @@ I am a ignorant about too many things but I am a little less about industrial en
 | How universe work | not biological technology => biological techonology (humans) => not biological technology => ...| 2018|
 | Business | Most profitable business are religions and educational institutions.| 2017 |
 | God | Just one and above all we know. Religions are very far from this concept. | 2010 |
-
 
 We are in the most important century of all of time. \
 _Neuroscience is today like physics before Newton or Genetics before discovering DNA. "Rafael Yustre"_
