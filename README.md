@@ -6,7 +6,7 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 
 🔭  I am focus on find out The First, I think it will be short and really basic, Algorithm.\
 👯  I am looking for postgraduate studies. (I already don't use diapers and my parents gave me permission)\
-🌱  I am always learning multidisciplinary and interdisciplinary things looking for transdisciplinary things.
+🌱  Road to transdisciplinary brain.
 
 ## My main work
 
