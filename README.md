@@ -12,12 +12,13 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 
 - The First Algorithm. TFA
 
-## My Hypothesis
+## My Hypotheses
 
-| Area | Hypothesis | Year |
+| Area | Hypothesis | Time |
 | ------ | ------ | ------ |
+| Development | Estrogens are not only the reason women are more beautiful than men, but also the reason for a sooner GABA/glutamate balance in women. [*mainly inspired from*](https://www.sciencedirect.com/science/article/pii/S0301008222001563?via%3Dihub)  | 2022-11 |
 | Intelligent people | The problem with people with specific or theoretical intelligence is that they don't realize their specific intelligence is not also general or practical intelligence. This argument is also the reason why intelligent people are not necessarily talented people. | 2022-11 |
-| Resilience | Want to develop resilience? Train/Teach a subject to fight (neither fright nor flight) in face of stress situation. After, turn on its dopaminergic diffuse modulatory system in the beginning of that fight reaction. [source](https://www.nature.com/articles/s41586-022-05328-2) | 2022-10 |
+| Resilience | Want to develop resilience? Train/Teach a subject to fight (neither fright nor flight) in face of stress situation. After, turn on its dopaminergic diffuse modulatory system in the beginning of that fight reaction. [*mainly inspired from*](https://www.nature.com/articles/s41586-022-05328-2) | 2022-10 |
 | People && religion | Humanity needs religion but each being human does not. | 2022-10 |
 | People | There are 4 types of people: (i) people who think as rich and have money, (ii) people who think as rich and have no money, (iii) people who do not think as rich and have money, and (iv) people who do not think as rich and have no money. Distribution of this hypothesis is still under discussion. | 2022-10 |
 | Parents | We can define the future of a person until before the critical period ends (i.e. more or less over early childhood). We can achieve this by incentivizing the practice of the sensorial/motor skill that we want. But not like Watson thought, if not, with an enriched environment. This applies to professions that depend mostly on sensory/motor-skill abilities. | 2022 |
