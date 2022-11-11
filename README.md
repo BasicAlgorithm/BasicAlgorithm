@@ -60,6 +60,7 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
   - Effective Oral and Written Communication
   - Accessing and Analyzing Information
   - Curiosity and Imagination  
+- Education does not need methods or new methods. Education only needs a new attitude. by André Stern
 
 > 1. Or Practice Intelligence. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport)
 > 2. Or Successful Intelligence. [*according to R.J. Sternberg in book: Successful Intelligence: How Practical and Creative Intelligence Determine Success in Life*](https://www.amazon.com/Successful-Intelligence-Practical-Creative-Determine/dp/0452279062#:~:text=Successful%20Intelligence%20consists%20primarily%20of,and%20applying%20strategies%2C%20ideas%2C%20and)
