@@ -59,8 +59,12 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
   - Initiative and Entrepreneurialism
   - Effective Oral and Written Communication
   - Accessing and Analyzing Information
-  - Curiosity and Imagination  
+  - Curiosity and Imagination
 - Education does not need methods or new methods. Education only needs a new attitude. by André Stern
+- *Reward prediction errors*: predicted reward - received reward.
+  - DN (dopamine neurons) more active => unexpectedly reward || bigger than expected.
+  - DN depressed => less than predicted.
+- *Aversive stimuli*: DN (on nucleus accumbens) learn to predict aversive events but not by *reward prediction error* but other stimuli that occurred a few seconds before an event (which effectively will produce a depressed *reward prediction error*). [9]
 
 > 1. Or Practice Intelligence. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport)
 > 2. Or Successful Intelligence. [*according to R.J. Sternberg in book: Successful Intelligence: How Practical and Creative Intelligence Determine Success in Life*](https://www.amazon.com/Successful-Intelligence-Practical-Creative-Determine/dp/0452279062#:~:text=Successful%20Intelligence%20consists%20primarily%20of,and%20applying%20strategies%2C%20ideas%2C%20and)
@@ -70,6 +74,7 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 > 6. [*Book: Frames of Mind: The Theory of Multiple Intelligences. Howard Gardner.*](https://www.amazon.com/Frames-Mind-Theory-Multiple-Intelligences/dp/0465024335)
 > 7. [*Book: La inteligencia ejecutiva: Lo que los padres y docentes deben saber. J.A. Marina*](https://www.amazon.com/-/es/Jos%C3%A9-Antonio-Marina/dp/8434400677)
 > 8. [Book: The Global Achievement Gap: Why Even Our Best Schools Don't Teach the New Survival Skills Our Children Need-And What We Can Do About It. Tony Wagner](https://www.amazon.com/Global-Achievement-Gap-Survival-Need/dp/0465002307)
+> 9. [Jessica N Goedhoop, Bastijn JG van den Boom, Rhiannon Robke, Felice Veen, Lizz Fellinger, Wouter van Elzelingen, Tara Arbab, Ingo Willuhn (2022) Nucleus accumbens dopamine tracks aversive stimulus duration and prediction but not value or prediction error eLife](https://elifesciences.org/articles/82711)
 
 ___
 
