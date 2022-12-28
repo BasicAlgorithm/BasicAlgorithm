@@ -8,7 +8,7 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 👯  I am looking for postgraduate studies. (I already don't use diapers and my parents gave me permission)\
 🌱  Road to transdisciplinary brain.
 
-## My main work
+## My final work
 
 - The First Algorithm. TFA
 
@@ -16,6 +16,7 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 
 | Area | Hypothesis | Time |
 | ------ | ------ | ------ |
+| AGI | The model of AGI is a model capable of learning continuously, in an infinite loop of training phase that we can test anytime, anywhere and anyway. | 2022-12 |
 | Development | Estrogens are not only the reason women are more beautiful than men, but also the reason for a sooner GABA/glutamate balance in women. [*mainly inspired from*](https://www.sciencedirect.com/science/article/pii/S0301008222001563?via%3Dihub)  | 2022-11 |
 | Intelligent people | The problem with people with specific or theoretical intelligence is that they don't realize their specific intelligence is not also general or practical intelligence. This argument is also the reason why intelligent people are not necessarily talented people. [*mainly inspired from*](#breakout-concepts) | 2022-11 |
 | Resilience | Want to develop resilience? Train/Teach a subject to fight (neither fright nor flight) in face of stress situation. After, turn on its dopaminergic diffuse modulatory system in the beginning of that fight reaction. [*mainly inspired from*](https://www.nature.com/articles/s41586-022-05328-2) | 2022-10 |
@@ -65,53 +66,53 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
   - DN (dopamine neurons) more active => unexpectedly reward || bigger than expected.
   - DN depressed => less than predicted.
 - *Aversive stimuli*: DN (on nucleus accumbens) learn to predict aversive events but not by *reward prediction error* but other stimuli that occurred a few seconds before an event (which effectively will produce a depressed *reward prediction error*). [[9]](#9)
-- Creative cognition are: [[10]](#10)
+- Creative cognition are: [[10]](#10) [[11]](#11)
   - Overcoming the semantic constraints of existing knowledge, which involves goal-directed behavior through cognitive control, and
   - Building unusual associations to expand the existing structure of knowledge, which involves the spontaneous and unconstrained generation of novel associations.
 
 ## Bibliography
 
-### 1
+### [1]
 
 > Or Practice Intelligence. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport)
 
-### 2
+### [2]
 
 > Or Successful Intelligence. [*according to R.J. Sternberg in book: Successful Intelligence: How Practical and Creative Intelligence Determine Success in Life*](https://www.amazon.com/Successful-Intelligence-Practical-Creative-Determine/dp/0452279062#:~:text=Successful%20Intelligence%20consists%20primarily%20of,and%20applying%20strategies%2C%20ideas%2C%20and)
 
-### 3
+### [3]
 
 > Or Generating intelligence. [*according to J.A. Marina in book: La educación del talento*](https://play.google.com/store/books/details?id=x_9Ei84dcqIC&rdid=book-x_9Ei84dcqIC&rdot=1&source=gbs_vpt_read&pcampaignid=books_booksearch_viewport)
 
-### 4
+### [4]
 
 > Or Executive intelligence. [*The role of prefrontal cortex in cognitive control and executive function*](https://www.nature.com/articles/s41386-021-01132-0)
 
-### 5
+### [5]
 
 > Or Theoretical Intelligence. [*according to J.A. Marina in book: La inteligencia ejecutiva: Lo que los padres y docentes deben saber*](https://www.amazon.com/-/es/Jos%C3%A9-Antonio-Marina/dp/8434400677)
 
-### 6
+### [6]
 
 > [*Book: Frames of Mind: The Theory of Multiple Intelligences. Howard Gardner.*](https://www.amazon.com/Frames-Mind-Theory-Multiple-Intelligences/dp/0465024335)
 
-### 7
+### [7]
 
 > [*Book: La inteligencia ejecutiva: Lo que los padres y docentes deben saber. J.A. Marina*](https://www.amazon.com/-/es/Jos%C3%A9-Antonio-Marina/dp/8434400677)
 
-### 8
+### [8]
 
 > [Book: The Global Achievement Gap: Why Even Our Best Schools Don't Teach the New Survival Skills Our Children Need-And What We Can Do About It. Tony Wagner](https://www.amazon.com/Global-Achievement-Gap-Survival-Need/dp/0465002307)
 
-### 9
+### [9]
 
 > [Jessica N Goedhoop, Bastijn JG van den Boom, Rhiannon Robke, Felice Veen, Lizz Fellinger, Wouter van Elzelingen, Tara Arbab, Ingo Willuhn (2022) Nucleus accumbens dopamine tracks aversive stimulus duration and prediction but not value or prediction error eLife](https://elifesciences.org/articles/82711)
 
-### 10
+### [10]
 
 > Marron T.R., Faust M. (2019). Measuring spontaneous processes in creativity research. Current Opinion in Behavioral Sciences, 27, 64–70.
 
-### 11
+### [11]
 
 > [Xinyi Li, Yadan Li, Xuewei Wang, Weiping Hu, Reduced brain activity and functional connectivity during creative idea generation in individuals with smartphone addiction, Social Cognitive and Affective Neuroscience, 2022](https://doi.org/10.1093/scan/nsac052)
 
