@@ -12,10 +12,11 @@ An 1 year old unstoppable baby babbling how the algorithm of Artificial General 
 
 - The First Algorithm. TFA
 
-## My Hypotheses
+## My hypotheses
 
 | Area | Hypothesis | Time |
 | ------ | ------ | ------ |
+| Future | The equation of the future is an Open-Universe Probability model with numeric statements deeply and carefully defined in three layers: biological/biochemical, mind(mental processes and mental contents), and environment. | 2023-03 |
 | God | Are our pupils a black hole? If true, are black holes in space the pupils of god? | 2023-03 |
 | AGI | The model of AGI is a model capable of learning continuously, in an infinite loop of training phase that we can test anytime, anywhere and anyway. | 2022-12 |
 | Development | Estrogens are not only the reason women are more beautiful than men, but also the reason for a sooner GABA/glutamate balance in women. [*mainly inspired from*](https://www.sciencedirect.com/science/article/pii/S0301008222001563?via%3Dihub)  | 2022-11 |
